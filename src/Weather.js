@@ -73,7 +73,7 @@ export default function Weather(props) {
           city={weatherData.city}
         />
         <footer>
-          This project was coded by Elmira Naghibi in
+          This project was coded by Elmira Naghibi in{" "}
           <a
             href="https://www.shecodes.io/"
             target="_blank"
